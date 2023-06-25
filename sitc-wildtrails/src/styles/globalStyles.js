@@ -25,7 +25,7 @@ export const StyledFlexContainer = styled.div`
 		css`
 			justify-content: flex-end;
 		`}
-        ${({ flexSpaceBetween }) =>
+    ${({ flexSpaceBetween }) =>
 		flexSpaceBetween &&
 		css`
 			justify-content: space-between;
@@ -34,5 +34,27 @@ export const StyledFlexContainer = styled.div`
 		fullWidth &&
 		css`
 			width: 100%;
+		`}
+	${({ gap }) =>
+		gap &&
+		css`
+			gap: ${gap};
+		`}
+	${({ wrap }) =>
+		wrap &&
+		css`
+			flex-wrap: wrap;
+		`}
+	${({ pointer }) =>
+		pointer &&
+		css`
+			cursor: pointer;
+		`}
+	${({ disabled }) =>
+		disabled &&
+		css`
+			cursor: default;
+			pointer-events: none;
+			opacity: 0.3;
 		`}
 `;

@@ -1,7 +1,7 @@
 import { Suspense, lazy } from "react";
 import { Route, Routes } from "react-router-dom";
-import ProtectedRoutes from "./protectedRoute";
-const Login = lazy(() => import("../modules/login/index"));
+import ProtectedRoutes from "./protected";
+const Login = lazy(() => import("../"));
 const Dashboard = lazy(() => import("../modules/dashboard/index"));
 const Index = () => {
 	return (
