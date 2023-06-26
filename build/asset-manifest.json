@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sitc-wildTrails/static/css/main.9fedd63b.css",
+    "main.js": "/sitc-wildTrails/static/js/main.20fd2250.js",
+    "static/js/92.abb12c3b.chunk.js": "/sitc-wildTrails/static/js/92.abb12c3b.chunk.js",
+    "static/js/623.3bece0cc.chunk.js": "/sitc-wildTrails/static/js/623.3bece0cc.chunk.js",
+    "static/js/787.a11bf8da.chunk.js": "/sitc-wildTrails/static/js/787.a11bf8da.chunk.js",
+    "static/js/504.f496de86.chunk.js": "/sitc-wildTrails/static/js/504.f496de86.chunk.js",
+    "static/js/493.b77ba9c8.chunk.js": "/sitc-wildTrails/static/js/493.b77ba9c8.chunk.js",
+    "index.html": "/sitc-wildTrails/index.html",
+    "main.9fedd63b.css.map": "/sitc-wildTrails/static/css/main.9fedd63b.css.map",
+    "main.20fd2250.js.map": "/sitc-wildTrails/static/js/main.20fd2250.js.map",
+    "92.abb12c3b.chunk.js.map": "/sitc-wildTrails/static/js/92.abb12c3b.chunk.js.map",
+    "623.3bece0cc.chunk.js.map": "/sitc-wildTrails/static/js/623.3bece0cc.chunk.js.map",
+    "787.a11bf8da.chunk.js.map": "/sitc-wildTrails/static/js/787.a11bf8da.chunk.js.map",
+    "504.f496de86.chunk.js.map": "/sitc-wildTrails/static/js/504.f496de86.chunk.js.map",
+    "493.b77ba9c8.chunk.js.map": "/sitc-wildTrails/static/js/493.b77ba9c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fedd63b.css",
+    "static/js/main.20fd2250.js"
+  ]
+}
