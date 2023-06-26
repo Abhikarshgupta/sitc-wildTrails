@@ -77,7 +77,7 @@ const CustomTravellerPopOver = ({ travellerDetails, setTravellerDetails }) => {
 					background: "#fff",
 					borderRadius: "5px",
 					minWidth: "20em",
-					minHeight: "3em",
+					minHeight: "2.4em",
 				}}>
 				{generateTextForParsedTravellerDetails(parsedTravellerDetails)}
 			</StyledFlexContainer>
